@@ -1,0 +1,15 @@
+//
+//  TranslationPCH.pch
+//  Translation
+//
+//  Created by Yang on 2018/11/26.
+//  Copyright © 2018 YangJing. All rights reserved.
+//
+
+#ifndef TranslationPCH_pch
+#define TranslationPCH_pch
+
+#import "Masonry.h"
+#import "Macro.h"
+
+#endif /* TranslationPCH_pch */
